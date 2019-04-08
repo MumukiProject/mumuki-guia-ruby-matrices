@@ -12,7 +12,7 @@ Ahora que estamos cerca del final, queremos codificar una matriz de 5x5 donde ca
 Como en las matrices tenemos filas *y* columnas, necesitamos dos `for`: uno para recorrer todas las filas, y otro para trabajar con los elementos de *cada* fila. Hasta que no finaliza por completo el ciclo del segundo `for`, no continúa el ciclo del primero. Nuestro método se verá parecido a...
 
 ```ruby
-def matriz_de_multiplicacion(matriz)
+def convertir_a_matriz_de_multiplicacion_5x5(matriz)
   for fila in 0..4
     for columna in 0..4
        #Aquí va lo que queremos que ocurra en el elemento matriz[fila][columna]
