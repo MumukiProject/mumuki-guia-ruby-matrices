@@ -1,1 +1,3 @@
-to be done
+it "Los estudiantes están sentados en el lugar correcto" do
+  expect(aula). to be [["bruno", "mateo", "carla"], ["ailén", "tomás", "paula"], ["maría", "diana", "simón"], ["lucas", "fabio", "perla"]]
+end
