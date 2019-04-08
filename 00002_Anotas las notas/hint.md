@@ -1,0 +1,1 @@
+:warning: ¡Atención con el orden de las notas! Para que nuestra organización de los datos tenga sentido, es importante que cada columna tenga las notas de una misma materia.
