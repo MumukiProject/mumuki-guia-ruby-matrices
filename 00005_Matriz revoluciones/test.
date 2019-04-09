@@ -17,5 +17,5 @@ end
 
 it "Se le suben las notas a otros tres estudiantes" do
   subir_notas!(otras_notas)
-  expect(otras_notas). to eq [[6, 7, 9, 8], [6, 7, 8, 10], [6, 7, 8, 8]]
+  expect(otras_notas). to eq [[6, 7, 9, 8], [6, 7, 8, 10], [6, 7, 9, 8]]
 end
