@@ -16,6 +16,6 @@ it "Se le suben las notas a Lara, Miguel y Micaela" do
 end
 
 it "Se le suben las notas a otros tres estudiantes" do
-  subir_notas!(notas_por_alumno)
-  expect(notas_por_alumno). to eq [[6, 7, 9, 8], [6, 7, 8, 10], [6, 7, 8, 8]]
+  subir_notas!(otras_notas)
+  expect(otras_notas). to eq [[6, 7, 9, 8], [6, 7, 8, 10], [6, 7, 8, 8]]
 end

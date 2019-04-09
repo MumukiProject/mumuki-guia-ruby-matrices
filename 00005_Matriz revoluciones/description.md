@@ -1,6 +1,6 @@
 Ahora que estamos cerca del final, queremos subirle un punto a nuestros estudiantes de un ejercicio anterior, Lara, Miguel y Micaela, porque se han portado muy bien durante el año. :smirk:
 
-Como son tres estudiantes y cuatro materias, son doce las notas que tenemos que cambiar. Pero... ¡¿a mano?! :dizzy_face: ¿No existe alguna forma de *automatizar* esto, en lugar de tener que calcular manualmente cuál es la multiplicación de cada posición? ¡Sí, lo aprendimos recién! Pero vamos a necesitar más de un `for` :scream:.
+Como son tres estudiantes y cuatro materias, son doce las notas que tenemos que cambiar. Pero... ¡¿a mano?! :dizzy_face: ¿No existe alguna forma de *automatizar* esto, en lugar de tener que cambiar manualmente la nota de cada materia? ¡Sí, lo aprendimos recién! Pero vamos a necesitar más de un `for` :scream:.
 
 Como en las matrices tenemos filas *y* columnas, necesitamos dos `for`: uno para recorrer todas las filas, y otro para trabajar con los elementos de *cada* fila. Hasta que no finaliza por completo el ciclo del segundo `for`, no continúa el ciclo del primero. Nuestro método se verá parecido a...
 
