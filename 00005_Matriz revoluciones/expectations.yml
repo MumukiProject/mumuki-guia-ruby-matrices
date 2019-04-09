@@ -1,5 +1,8 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
+  binding: convertir_a_matriz_de_multiplicacion_5x5
   inspection: Uses:for
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Except:HasWrongCaseIdentifiers
