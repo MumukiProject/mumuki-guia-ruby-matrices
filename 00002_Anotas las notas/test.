@@ -3,7 +3,7 @@ it "Lara tiene las notas correctas" do
 end
 
 it "Miguel tiene las notas correctas" do
-  expect(notas_por_alumno[1]). to eq [6, 7, 7, 10]
+  expect(notas_por_alumno[1]). to eq [6, 7, 7, 9]
 end
 
 it "Micaela tiene las notas correctas" do
