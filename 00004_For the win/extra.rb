@@ -3,3 +3,7 @@ def imprimir_numeros_del_1_al(cuanto)
    imprimir(numero)
   end
 end
+
+def imprimir(algo)
+  puts(algo)
+end
