@@ -2,7 +2,7 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: convertir_a_matriz_de_multiplicacion_5x5
-  inspection: Uses:for
+  inspection: UsesLoop
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: Except:HasWrongCaseIdentifiers
