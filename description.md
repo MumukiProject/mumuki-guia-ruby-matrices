@@ -1,1 +1,1 @@
-Dejame pensar una
+Pilas, colas y listas fueron sólo el comienzo: te presentamos una nueva *estructura de datos*, la **matriz**. :grin:
