@@ -14,14 +14,14 @@ Para acceder a un elemento en particular, primero escribimos entre corchetes el 
 Por ejemplo, para ver el horario de apertura del sábado, hacemos:
 
 ```ruby
-ム horarios_por_dia[5][0]
+ム horarios_por_dia[0][5]
 > "10:00"
 ```
 
 O para el horario de cierre del viernes, escribimos:
 
 ```ruby
-ム horarios_por_dia[4][1]
+ム horarios_por_dia[1][4]
 > "21:00"
 ```
 
