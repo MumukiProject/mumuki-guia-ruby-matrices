@@ -1,0 +1,1 @@
+La primera vez que se ejecute la cuarta línea de la `Solucion`, `fila` y `columna` valdrán 0; entonces, escribiendo `notas[fila][columna]` podemos acceder al elemento en `notas[0][0]`. La próxima vez que entremos a nuestros `for`, `fila` seguirá valiendo 0 pero `columna` será igual a 1: entonces nos sirve para acceder a `notas[0][1]`. ¡Y así para recorrer toda la matriz! :tada:

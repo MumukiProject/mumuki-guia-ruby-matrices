@@ -16,6 +16,4 @@ end
 
 Las variables `fila` y `columna` van a tomar un valor distinto (empezando en 0, hasta 2 y hasta 3, respectivamente), cada vez que se ejecute el código dentro de los ciclos `for`. Al igual que para mostrar los números, podemos usar estas variables para trabajar con los elementos de la matriz.
 
-Por ejemplo, la primera vez que se ejecute la cuarta línea, `fila` y `columna` valdrán 0; entonces, escribiendo `notas[fila][columna]` podemos acceder al elemento en `notas[0][0]`. La próxima iteración, `fila` seguirá valiendo 0 pero `columna` será igual a 1: entonces nos sirve para acceder a `notas[0][1]`. ¡Y así para recorrer toda la matriz! :tada:
-
 > Completá el código: ¿a qué debe ser igual `notas[fila][columna]`? Recordá que queremos subirle un punto a todas las notas de la matriz. :satisfied:
