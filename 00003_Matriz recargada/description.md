@@ -20,7 +20,7 @@ En la `Solución` podés ver qué posiciones recordamos. También sabemos que:
 
 * `María` se sienta delante de `Lucas` y detrás de `Ailén`.
 
-* `Lucas` y `fabio` son mejores amigos, por lo que se sientan uno al lado del otro.
+* `Lucas` y `Fabio` son mejores amigos, por lo que se sientan uno al lado del otro.
 
 * `Tomás` siempre se queja de que la cabeza de `Mateo` no lo deja ver el pizarrón.
 
