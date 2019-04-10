@@ -1,9 +1,9 @@
-def imprimir_numeros_del_1_al(cuanto)
+def mostrar_numeros_del_1_al(cuanto)
   for numero in 1..cuanto
-   imprimir(numero)
+   mostrar(numero)
   end
 end
 
-def imprimir(algo)
+def mostrar(algo)
   puts(algo)
 end
