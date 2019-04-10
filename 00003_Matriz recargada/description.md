@@ -26,4 +26,4 @@ En la `Solución` podés ver qué posiciones recordamos. También sabemos que:
 
 * `Simón` quería sentarse adelante de todo, pero `Carla` se quedó en ese lugar.
 
-> Modificá los elementos necesarios en la matriz `aula` para almacenar dónde se sienta cada estudiante. :raising_hand: :bow:
+> Modificá los elementos necesarios en la matriz `aula` para almacenar dónde se sienta cada estudiante respetando mayúsculas y tildes. :raising_hand: :bow:
