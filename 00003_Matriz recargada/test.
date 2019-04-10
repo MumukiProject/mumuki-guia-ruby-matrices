@@ -1,3 +1,3 @@
 it "Los estudiantes están sentados en el lugar correcto" do
-  expect(aula). to eq [["bruno", "mateo", "carla"], ["ailén", "tomás", "paula"], ["maría", "diana", "simón"], ["lucas", "fabio", "perla"]]
+  expect(aula). to eq [["Bruno", "Mateo", "Carla"], ["Ailén", "Tomás", "Paula"], ["María", "Diana", "Simón"], ["Lucas", "Fabio", "Perla"]]
 end

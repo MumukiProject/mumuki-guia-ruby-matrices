@@ -14,16 +14,16 @@ notas_por_estudiante[2][3] = 10
 
 En la `Solución` podés ver qué posiciones recordamos. También sabemos que:
 
-* `bruno` se sienta adelante de todo para ver bien, pero no tiene detrás a `paula`.
+* `Bruno` se sienta adelante de todo para ver bien, pero no tiene detrás a `Paula`.
 
-* `diana` se sienta en la columna del medio, pero no se sienta al lado de `paula` ni de `perla`.
+* `Diana` se sienta en la columna del medio, pero no se sienta al lado de `Paula` ni de `Perla`.
 
-* `maría` se sienta delante de `lucas` y detrás de `ailén`.
+* `María` se sienta delante de `Lucas` y detrás de `Ailén`.
 
-* `lucas` y `fabio` son mejores amigos, por lo que se sientan uno al lado del otro.
+* `Lucas` y `fabio` son mejores amigos, por lo que se sientan uno al lado del otro.
 
-* `tomás` siempre se queja de que la cabeza de `mateo` no lo deja ver el pizarrón.
+* `Tomás` siempre se queja de que la cabeza de `Mateo` no lo deja ver el pizarrón.
 
-* `simón` quería sentarse adelante de todo, pero `carla` se quedó en ese lugar.
+* `Simón` quería sentarse adelante de todo, pero `Carla` se quedó en ese lugar.
 
 > Modificá los elementos necesarios en la matriz `aula` para almacenar dónde se sienta cada estudiante. :raising_hand: :bow:
