@@ -1,1 +1,1 @@
-Pilas, colas y listas fueron sólo el comienzo: te presentamos una nueva *estructura de datos*, la **matriz**. :grin:
+Hasta ahora, con *pilas*, *colas* y *listas* estuvimos trabajando en una única **dimensión**: elementos ordenados en una única línea, uno detrás del otro :satisfied:. ¿Pero qué ocurre si te contamos que existe una estructura de datos **de dos dimensiones**, donde se puede almacenar información en formato de **filas** y **columnas**? :thought_balloon: ¡Conozcamos a las **matrices**! :open_mouth:
