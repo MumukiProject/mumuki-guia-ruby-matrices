@@ -10,7 +10,7 @@ O si Micaela (en la tercera fila) obtuvo una nota perfecta en educación física
 notas_por_estudiante[2][3] = 10
 ```
 
-¡Recordá que se empieza a contar desde cero! Y hablando de recordar... teníamos guardada en una matriz dónde se sientan los 12 estudiantes de otro curso, ¡pero nos olvidamos la posición de casi todos! :sweat_smile:
+¡Recordá que se empieza a contar desde cero! Y hablando de recordar... teníamos guardada en una matriz dónde se sientan  12 estudiantes de otro curso, ¡pero nos olvidamos la posición de casi todo el mundo! :sweat_smile:
 
 En la pestaña `Biblioteca` podés ver qué posiciones recordamos. También sabemos que:
 
