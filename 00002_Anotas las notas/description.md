@@ -6,4 +6,4 @@ Vamos a estar guardando las notas de varias materias para estudiantes. Cada fila
 * Miguel tiene un 7 en lengua, 6 en matemática, 9 en educación física y 7 en biología.
 * Micaela tiene 8 en las cuatro materias.
 
-> :books: Escribí la matriz `notas_por_alumno`, donde la primera fila son las notas de Lara, la segunda las de Miguel y la tercera las de Micaela.
+> :books: Escribí la matriz `notas_por_estudiante`, donde la primera fila son las notas de Lara, la segunda las de Miguel y la tercera las de Micaela.

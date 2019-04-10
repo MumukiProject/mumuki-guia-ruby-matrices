@@ -1,13 +1,13 @@
 En el ejercicio anterior escribiste una nueva matriz, ¡y te salió muy bien! :smile: Una vez que la matriz ya está definida, sus contenidos se pueden modificar de forma simple. Por ejemplo, si Lara (primera fila) volvió a rendir biología (segunda columna) y se sacó 9, es cuestión de identificar la fila y columna correspondiente y escribir el nuevo elemento:
 
 ```ruby
-notas_por_alumno[0][1] = 9
+notas_por_estudiante[0][1] = 9
 ```
 
 O si Micaela (en la tercera fila) obtuvo una nota perfecta en educación física (la cuarta columna), escribimos:
 
 ```ruby
-notas_por_alumno[2][3] = 10
+notas_por_estudiante[2][3] = 10
 ```
 
 ¡Recordá que se empieza a contar desde cero! Y hablando de recordar... teníamos guardada en una matriz dónde se sientan los 12 estudiantes de otro curso, ¡pero nos olvidamos la posición de casi todos! :sweat_smile:
