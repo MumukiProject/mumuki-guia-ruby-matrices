@@ -1,4 +1,4 @@
-Hasta ahora, con *pilas*, *colas* y *listas* estuvimos trabajando en una única **dimensión**: elementos ordenados en una única línea, uno detrás del otro. ¿Pero qué ocurre si te contamos que existe una estructura de datos **bidimensional**, donde se puede almacenar información en formato de **filas** y **columnas**? ¡Es una **matriz**! :open_mouth:
+Hasta ahora, con *pilas*, *colas* y *listas* estuvimos trabajando en una única **dimensión**: elementos ordenados en una única línea, uno detrás del otro. ¿Pero qué ocurre si te contamos que existe una estructura de datos **de dos dimensiones**, donde se puede almacenar información en formato de **filas** y **columnas**? ¡Conozcamos a las **matrices**! :open_mouth:
 
 Por ejemplo, la siguiente es una matriz con los horarios de apertura y cierre de un local. Cada columna representa un día de la semana, de lunes a domingo; la primera fila representa el horario de apertura, y la segunda el horario de cierre. Como tiene dos filas y siete columnas, decimos que el tamaño de la matriz es `2x7`.
 
